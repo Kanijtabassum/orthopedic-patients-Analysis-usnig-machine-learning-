@@ -1,4 +1,4 @@
-# orthopedic-patients-Analysis-usnig-machine-learning-
+# orthopedic-patients-Analysis-usnig-machine-learning
 
 The orthopedic diseases are becoming massive day by day. For proper treatment we need to know these kinds of diseases in details. The more we know, the more we will become powerful. Orthopedics become part of our daily life and has become wide spread. Disk Hernia and Spondylolisthesis are two common orthopedic diseases
 
